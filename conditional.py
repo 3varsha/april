@@ -1,5 +1,6 @@
 """
 this is python pgm
+I added 1 stmt
 """
 #Above 59 age people will get pension scheme using this cond. write a if-else pgm
 age=int(input("enter number : "))
